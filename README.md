@@ -13,7 +13,7 @@ Management & Product Strategy
 - 🌱 Exploring cloud security, compliance modernization, and AI-enabled
   productivity in the Microsoft 365 ecosystem
 - 💬 Ask me about ISO 27001/27017, cloud security architecture, or GRC
-- 📫 Reach me: datsondavid37@gmail.com · [LinkedIn](https://www.linkedin.com/in/datsondavid)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/datsondavid)
 
 ---
 
